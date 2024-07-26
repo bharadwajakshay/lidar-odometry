@@ -1,0 +1,6 @@
+[submodule "fast_lio"]
+	path = fast_lio
+	url = git@github.com:bharadwajakshay/fast_lio.git
+[submodule "cartographer_ros"]
+	path = cartographer_ros
+	url = git@github.com:bharadwajakshay/cartographer_ros.git
